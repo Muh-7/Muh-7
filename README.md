@@ -8,7 +8,7 @@ Tech Stack:
 - **ML/DL:** Machine Learning, Deep Learning
 - **CV:** OpenCV, OCR pipelines
 - **Frameworks:** TensorFlow
-- **Libraries:** scikit-learn
+- **Libraries:** scikit-learn,numpy,pandas,matplotlib,seaborn,opencv
 - **Tools:** Git, GitHub, Linux
 
 
