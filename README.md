@@ -23,6 +23,8 @@ Tech Stack:
   https://github.com/Muh-7/Text_File_Cleaner
 - **File_Organizer** — Folder organizer automation tool  
   https://github.com/Muh-7/File_Organizer
+- **Anime Faces Generator** — Anime Faces Generator using DCGAN way  
+  https://github.com/Muh-7/Animi_Faces_generator.git
 
 
 ## Contact:
