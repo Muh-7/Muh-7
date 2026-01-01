@@ -1,14 +1,14 @@
 # Hi, I'm Muhammad Kassem Alsehoum
-AI Engineer (NLP, Computer Vision, ...)
-Interested in: OCR, Document AI, Deep Learning, Computer Vision
+AI Engineer (NLP, Computer Vision, ...) with 1 year experience
+Interested in: OCR, Document AI, Deep Learning, Computer Vision and other Ai fields ...
 
 
 Tech Stack:
-- **Languages:** Python
+- **Languages:** Python, C++, Java
 - **ML/DL:** Machine Learning, Deep Learning
-- **CV:** OpenCV, OCR pipelines
+- **CV:** OpenCV, OCR pipelines, Yolo, Cnn, ResNet...etc
 - **Frameworks:** TensorFlow, Pytorch
-- **Libraries:** scikit-learn, numpy, pandas, matplotlib, seaborn, opencv
+- **Libraries:** scikit-learn, numpy, pandas, matplotlib, seaborn, opencv, Transformers, and other Ai libraries
 - **Tools:** Git, GitHub, Linux
 
 
