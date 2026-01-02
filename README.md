@@ -13,20 +13,20 @@ Tech Stack:
 
 
 ## Featured Repositories
+- **Alsehoum-Neural-Network-FrameWork-From-Scratch** — A project to do mini Ai frmework such as TensorFlow, Pytorch
+  https://github.com/Muh-7/Alsehoum-Neural-Network-FrameWork-From-Scratch.git
+- **Speech_emotions_recognition** — Speech Emotion Recognition project  
+  https://github.com/Muh-7/Speech_emotions_recognition
+- **Anime Faces Generator** — Anime Faces Generator using DCGAN way  
+  https://github.com/Muh-7/Animi_Faces_generator.git
 - **Easy_OCR** — OCR experiments & pipeline work  
   https://github.com/Muh-7/Easy_OCR
 - **Tesseract_OCR** — OCR using Tesseract + experiments  
   https://github.com/Muh-7/Tesseract_OCR
-- **Speech_emotions_recognition** — Speech Emotion Recognition project  
-  https://github.com/Muh-7/Speech_emotions_recognition
 - **Text_File_Cleaner** — Text cleaning utilities (regex + formatting)  
   https://github.com/Muh-7/Text_File_Cleaner
 - **File_Organizer** — Folder organizer automation tool  
   https://github.com/Muh-7/File_Organizer
-- **Anime Faces Generator** — Anime Faces Generator using DCGAN way  
-  https://github.com/Muh-7/Animi_Faces_generator.git
-- **Alsehoum-Neural-Network-FrameWork-From-Scratch** — A project to do mini Ai frmework such as TensorFlow, Pytorch
-  https://github.com/Muh-7/Alsehoum-Neural-Network-FrameWork-From-Scratch.git
 
 
 ## Contact:
