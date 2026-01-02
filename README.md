@@ -13,7 +13,7 @@ Tech Stack:
 
 
 ## Featured Repositories
-- **Alsehoum-Neural-Network-FrameWork-From-Scratch** — A project to do mini Ai frmework such as TensorFlow, Pytorch
+- **Alsehoum-Neural-Network-FrameWork-From-Scratch** — “Mini neural network framework implemented from scratch using NumPy.”
   https://github.com/Muh-7/Alsehoum-Neural-Network-FrameWork-From-Scratch.git
 - **Speech_emotions_recognition** — Speech Emotion Recognition project  
   https://github.com/Muh-7/Speech_emotions_recognition
