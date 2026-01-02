@@ -25,6 +25,8 @@ Tech Stack:
   https://github.com/Muh-7/File_Organizer
 - **Anime Faces Generator** — Anime Faces Generator using DCGAN way  
   https://github.com/Muh-7/Animi_Faces_generator.git
+- **Alsehoum-Neural-Network-FrameWork-From-Scratch** — A project to do mini Ai frmework such as TensorFlow, Pytorch
+  https://github.com/Muh-7/Alsehoum-Neural-Network-FrameWork-From-Scratch.git
 
 
 ## Contact:
