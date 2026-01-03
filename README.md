@@ -19,6 +19,8 @@ Tech Stack:
   https://github.com/Muh-7/Speech_emotions_recognition
 - **Anime Faces Generator** — Anime Faces Generator using DCGAN way  
   https://github.com/Muh-7/Animi_Faces_generator.git
+  **UML_BookStoreOnlineSystem** — UML_BookStoreOnlineSystem project 
+  https://github.com/Muh-7/UML_BookStoreOnlineSystem.git
 - **Easy_OCR** — OCR experiments & pipeline work  
   https://github.com/Muh-7/Easy_OCR
 - **Tesseract_OCR** — OCR using Tesseract + experiments  
