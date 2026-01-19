@@ -1,38 +1,51 @@
-# Hi, I'm Muhammad Kassem Alsehoum
-AI Engineer (NLP, Computer Vision, ...) with 1 year experience
-Interested in: OCR, Document AI, Deep Learning, Computer Vision and other Ai fields ...
+# Hi, I'm Muhammad Kassem Alsehoum 👋
 
+AI Engineer with 1+ year of hands-on experience in **Natural Language Processing (NLP)** and **Computer Vision (CV)**.  
+I am particularly interested in **OCR**, **Document AI**, and **Deep Learning**, with a strong focus on building practical and scalable AI pipelines.
 
-Tech Stack:
-- **Languages:** Python, C++, Java
-- **ML/DL:** Machine Learning, Deep Learning
-- **CV:** OpenCV, OCR pipelines, Yolo, Cnn, ResNet...etc
-- **Frameworks:** TensorFlow, Pytorch
-- **Libraries:** scikit-learn, numpy, pandas, matplotlib, seaborn, opencv, Transformers, and other Ai libraries
-- **Tools:** Git, GitHub, Linux
+---
 
+##  Technical Skills
 
-## Featured Repositories
-- **Speech_emotions_recognition** — Speech Emotion Recognition project  
-  https://github.com/Muh-7/Speech_emotions_recognition
-- **Anime Faces Generator** — Anime Faces Generator using DCGAN way  
-  https://github.com/Muh-7/Animi_Faces_generator.git
-- **Face_Detection** — Face Detection project using kornia
-  https://github.com/Muh-7/Face_Detection.git
-- **Alsehoum-Neural-Network-FrameWork-From-Scratch** — “Mini neural network framework implemented from scratch using NumPy.”
-  https://github.com/Muh-7/Alsehoum-Neural-Network-FrameWork-From-Scratch.git
-- **Easy_OCR** — OCR experiments & pipeline work  
-  https://github.com/Muh-7/Easy_OCR
-- **Tesseract_OCR** — OCR using Tesseract + experiments  
-  https://github.com/Muh-7/Tesseract_OCR
-- **Text_File_Cleaner** — Text cleaning utilities (regex + formatting)  
-  https://github.com/Muh-7/Text_File_Cleaner
-- **File_Organizer** — Folder organizer automation tool  
-  https://github.com/Muh-7/File_Organizer
+- **Programming Languages:** Python, C++, Java  
+- **Machine Learning & Deep Learning:** Supervised & Unsupervised ML, Deep Learning  
+- **Computer Vision:** OpenCV, OCR Pipelines, CNNs, ResNet, YOLO  
+- **Frameworks:** TensorFlow, PyTorch  
+- **Libraries:** scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, OpenCV, Transformers  
+- **Tools & Platforms:** Git, GitHub, Linux  
 
+---
 
-## Contact:
-- Email: muhammad.alsehoum2000@gmail.com
-- LinkedIn: https://www.linkedin.com/in/muhammad-alsehoum-7ab688294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- Location: Syria / Daraa , Syria/Damascus
+## ⭐ Featured Repositories (Hiring-Focused)
 
+- **Easy_OCR**  
+  End-to-end OCR pipeline and experiments (Arabic-focused, production-oriented)  
+  🔗 https://github.com/Muh-7/Easy_OCR
+
+- **Face_Detection**  
+  Multi-face detection using Kornia and PyTorch  
+  🔗 https://github.com/Muh-7/Face_Detection
+
+- **Speech_emotions_recognition**  
+  Speech Emotion Recognition using machine learning and deep learning  
+  🔗 https://github.com/Muh-7/Speech_emotions_recognition
+
+- **Alsehoum-Neural-Network-FrameWork-From-Scratch**  
+  Neural network framework implemented from scratch using NumPy  
+  🔗 https://github.com/Muh-7/Alsehoum-Neural-Network-FrameWork-From-Scratch
+
+- **BuildingNeuralNetworkUsingNumpy**  
+  Building neural networks from scratch using NumPy (educational and fundamental)  
+  🔗 https://github.com/Muh-7/BuildingNeuralNetworkUsingNumpy
+
+- **Animi_Faces_generator**  
+  Anime face generation using DCGAN  
+  🔗 https://github.com/Muh-7/Animi_Faces_generator
+
+---
+
+## 📫 Contact
+
+- **Email:** muhammad.alsehoum2000@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/muhammad-alsehoum-7ab688294  
+- **Location:** Daraa / Damascus, Syria
