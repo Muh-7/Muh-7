@@ -13,14 +13,14 @@ Tech Stack:
 
 
 ## Featured Repositories
-- **Alsehoum-Neural-Network-FrameWork-From-Scratch** — “Mini neural network framework implemented from scratch using NumPy.”
-  https://github.com/Muh-7/Alsehoum-Neural-Network-FrameWork-From-Scratch.git
 - **Speech_emotions_recognition** — Speech Emotion Recognition project  
   https://github.com/Muh-7/Speech_emotions_recognition
 - **Anime Faces Generator** — Anime Faces Generator using DCGAN way  
   https://github.com/Muh-7/Animi_Faces_generator.git
-- **UML_BookStoreOnlineSystem** — UML_BookStoreOnlineSystem project 
-  https://github.com/Muh-7/UML_BookStoreOnlineSystem.git
+- **Face_Detection** — Face Detection project using kornia
+  https://github.com/Muh-7/Face_Detection.git
+- **Alsehoum-Neural-Network-FrameWork-From-Scratch** — “Mini neural network framework implemented from scratch using NumPy.”
+  https://github.com/Muh-7/Alsehoum-Neural-Network-FrameWork-From-Scratch.git
 - **Easy_OCR** — OCR experiments & pipeline work  
   https://github.com/Muh-7/Easy_OCR
 - **Tesseract_OCR** — OCR using Tesseract + experiments  
