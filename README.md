@@ -18,6 +18,10 @@ I am particularly interested in **OCR**, **Document AI**, and **Deep Learning**,
 
 ## ⭐ Featured Repositories (Hiring-Focused)
 
+- **Problem Solving**  
+  Problem Solving using Python from Hackerrank site.  
+  🔗 https://github.com/Muh-7/problem-solving-python
+
 - **Easy_OCR**  
   End-to-end OCR pipeline and experiments (Arabic-focused, production-oriented)  
   🔗 https://github.com/Muh-7/Easy_OCR
