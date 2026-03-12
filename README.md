@@ -47,7 +47,8 @@ I am particularly interested in **OCR**, **Document AI**, and **Deep Learning**,
   🔗 https://github.com/Muh-7/Animi_Faces_generator
 
 ---
-
+## 🚀 Skills
+![Skills](https://skillicons.dev/icons?i=python,numpy,pandas,opencv,tensorflow,pytorch,git,linux,docker,fastapi)
 ## 📫 Contact
 
 - **Email:** muhammad.alsehoum2000@gmail.com  
