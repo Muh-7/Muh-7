@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kassem Alsehoum</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Vision+Engineer;Machine+Learning+Developer;OCR+Systems+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Computer+Vision+Engineer;Machine+Learning+Developer;OCR+Systems+Builder" />
 </p>
 
 ---
@@ -10,113 +10,26 @@
 
 AI Engineer with **1+ year of hands-on experience** in **Natural Language Processing (NLP)** and **Computer Vision (CV)**.
 
-I focus on building **practical AI systems**, especially:
+My main interests:
 
-- OCR systems  
+- OCR Systems  
 - Document AI  
-- Computer Vision pipelines  
-- Deep Learning models  
+- Computer Vision Pipelines  
+- Deep Learning Models  
+- Practical AI Systems
 
-My goal is to design **real-world AI pipelines that are scalable and production-ready.**
-
----
-
-## 🚀 Technical Skills
-
-### Programming Languages
-- Python
-- C++
-- Java
-
-### Machine Learning & Deep Learning
-- Supervised Learning
-- Unsupervised Learning
-- Deep Learning
-
-### Computer Vision
-- OpenCV
-- CNNs
-- ResNet
-- YOLO
-- OCR Pipelines
-
-### Frameworks
-- TensorFlow
-- PyTorch
-
-### Libraries
-- scikit-learn
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Transformers
-
-### Tools & Platforms
-- Git
-- GitHub
-- Linux
+I enjoy building **real-world AI solutions** and experimenting with deep learning architectures.
 
 ---
 
-## 💻 Technologies & Tools
+## 🚀 Technologies & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,git,linux&perline=6"/>
 </p>
 
-Libraries: NumPy • Pandas • Matplotlib • Scikit-learn • Transformers
-
----
-
-## ⭐ Featured Repositories
-
-### Problem Solving
-Problem solving using Python from HackerRank.
-
-🔗 https://github.com/Muh-7/problem-solving-python
-
----
-
-### Easy_OCR
-End-to-end OCR pipeline and experiments (Arabic-focused, production-oriented).
-
-🔗 https://github.com/Muh-7/Easy_OCR
-
----
-
-### Face_Detection
-Multi-face detection using Kornia and PyTorch.
-
-🔗 https://github.com/Muh-7/Face_Detection
-
----
-
-### Speech_emotions_recognition
-Speech Emotion Recognition using machine learning and deep learning.
-
-🔗 https://github.com/Muh-7/Speech_emotions_recognition
-
----
-
-### Alsehoum-Neural-Network-FrameWork-From-Scratch
-Neural network framework implemented from scratch using NumPy.
-
-🔗 https://github.com/Muh-7/Alsehoum-Neural-Network-FrameWork-From-Scratch
-
----
-
-### BuildingNeuralNetworkUsingNumpy
-Building neural networks from scratch using NumPy (educational project).
-
-🔗 https://github.com/Muh-7/BuildingNeuralNetworkUsingNumpy
-
----
-
-### Animi_Faces_generator
-Anime face generation using DCGAN.
-
-🔗 https://github.com/Muh-7/Animi_Faces_generator
+Libraries:  
+NumPy • Pandas • Matplotlib • scikit-learn • Transformers
 
 ---
 
@@ -132,7 +45,66 @@ Anime face generation using DCGAN.
 
 ---
 
-## 📫 Contact
+## 🔥 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muh-7&theme=tokyo-night"/>
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+### 🔹 Easy OCR
+Arabic-focused OCR pipeline and experiments.
+
+https://github.com/Muh-7/Easy_OCR
+
+---
+
+### 🔹 Face Detection
+Multi-face detection using Kornia and PyTorch.
+
+https://github.com/Muh-7/Face_Detection
+
+---
+
+### 🔹 Speech Emotion Recognition
+Speech emotion recognition using machine learning and deep learning.
+
+https://github.com/Muh-7/Speech_emotions_recognition
+
+---
+
+### 🔹 Neural Network Framework from Scratch
+Neural network framework implemented using NumPy.
+
+https://github.com/Muh-7/Alsehoum-Neural-Network-FrameWork-From-Scratch
+
+---
+
+### 🔹 Building Neural Networks Using NumPy
+Educational implementation of neural networks from scratch.
+
+https://github.com/Muh-7/BuildingNeuralNetworkUsingNumpy
+
+---
+
+### 🔹 Anime Faces Generator
+Anime face generation using DCGAN.
+
+https://github.com/Muh-7/Animi_Faces_generator
+
+---
+
+### 🔹 Problem Solving (HackerRank)
+Python problem solving exercises.
+
+https://github.com/Muh-7/problem-solving-python
+
+---
+
+## 📫 Contact Me
 
 📧 Email  
 muhammad.alsehoum2000@gmail.com  
@@ -142,3 +114,7 @@ https://www.linkedin.com/in/muhammad-alsehoum-7ab688294
 
 📍 Location  
 Damascus, Syria
+
+---
+
+⭐ If you like my work, consider giving a star to the repositories!
