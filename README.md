@@ -1,5 +1,5 @@
 # Hi, I'm Muhammad Kassem Alsehoum 👋
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Computer+Vision;Machine+Learning)
 AI Engineer with 1+ year of hands-on experience in **Natural Language Processing (NLP)** and **Computer Vision (CV)**.  
 I am particularly interested in **OCR**, **Document AI**, and **Deep Learning**, with a strong focus on building practical and scalable AI pipelines.
 
