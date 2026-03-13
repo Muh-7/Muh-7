@@ -8,19 +8,14 @@
 
 ## 👨‍💻 About Me
 
-AI Engineer with **1+ year of hands-on experience** in:
+AI Engineer focused on building **practical AI systems** using:
 
-- Natural Language Processing (NLP)
-- Computer Vision (CV)
+- Computer Vision
+- Deep Learning
+- OCR
+- Machine Learning
 
-I focus on building **practical AI systems**, especially:
-
-- OCR Systems
-- Document AI
-- Computer Vision Pipelines
-- Deep Learning Models
-
-I enjoy designing **real-world AI solutions and scalable ML pipelines.**
+I enjoy building **real-world AI pipelines and experimenting with deep learning architectures.**
 
 ---
 
@@ -38,10 +33,6 @@ I enjoy designing **real-world AI solutions and scalable ML pipelines.**
 
 <a href="https://pandas.pydata.org">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
-</a>
-
-<a href="https://matplotlib.org">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/>
 </a>
 
 <a href="https://opencv.org">
@@ -88,67 +79,59 @@ I enjoy designing **real-world AI solutions and scalable ML pipelines.**
 
 ---
 
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muh-7&theme=tokyo-night"/>
-</p>
-
----
-
 # ⭐ Featured Projects
 
-### 🔹 Easy OCR
-Arabic-focused OCR pipeline and experiments.
+### Easy OCR
+Arabic-focused OCR pipeline.
 
 https://github.com/Muh-7/Easy_OCR
 
-### 🔹 Face Detection
-Multi-face detection using Kornia and PyTorch.
+---
 
-https://github.com/Muh-7/Face_Detection
+### Neural Network Framework From Scratch
+Custom neural network framework implemented with NumPy.
 
-### 🔹 Speech Emotion Recognition
+https://github.com/Muh-7/Alsehoum-Neural-Network-FrameWork-From-Scratch
+
+---
+
+### Speech Emotion Recognition
 Speech emotion recognition using machine learning and deep learning.
 
 https://github.com/Muh-7/Speech_emotions_recognition
 
-### 🔹 Neural Network Framework from Scratch
-Neural network framework built using NumPy.
+---
 
-https://github.com/Muh-7/Alsehoum-Neural-Network-FrameWork-From-Scratch
+### Face Detection
+Multi-face detection using Kornia and PyTorch.
 
-### 🔹 Building Neural Networks Using NumPy
-Educational neural network implementation.
+https://github.com/Muh-7/Face_Detection
 
-https://github.com/Muh-7/BuildingNeuralNetworkUsingNumpy
+---
 
-### 🔹 Anime Faces Generator
+### Anime Faces Generator
 Anime face generation using DCGAN.
 
 https://github.com/Muh-7/Animi_Faces_generator
 
-### 🔹 Problem Solving (HackerRank)
-Algorithmic problem solving using Python.
+---
 
-https://github.com/Muh-7/problem-solving-python
+### Building Neural Networks Using NumPy
+Educational neural network implementation.
+
+https://github.com/Muh-7/BuildingNeuralNetworkUsingNumpy
 
 ---
 
 # 📫 Contact
 
-📧 **Email**  
+📧 Email  
 muhammad.alsehoum2000@gmail.com  
 
-💼 **LinkedIn**  
+💼 LinkedIn  
 https://www.linkedin.com/in/muhammad-alsehoum-7ab688294  
 
-📍 **Location**  
-Damascus, Syria
-
----
-
-⭐ If you like my work, consider giving a star to my repositories!
+📍 Damascus, Syria
 
 ---
 
