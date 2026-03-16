@@ -254,66 +254,6 @@ OCR robustness (noise, blur, low-res, skew), Arabic text recognition, efficient 
   </a>
 </p>
 
-<details>
-  <summary><b>Usage Notes (install as your Profile README)</b></summary>
-
-  <br/>
-
-  GitHub shows a profile README when you create a **public** repository that matches your username and add a `README.md` at the repo root.  
-  <!-- citeturn2search1 -->
-
-  **Exact repository name required:**
-  ```text
-  Muh-7/Muh-7
-  ```
-
-  **Quick steps**
-  - Create (or open) the repository above (must be public).
-  - Paste this entire file into `README.md` (root).
-  - Commit to the default branch (it renders right away on your profile).  
-  <!-- citeturn2search1turn2search9 -->
-
-  **Optional: deploy the contribution snake**
-  - Use the “generate-snake-game-from-github-contribution-grid” GitHub Action to output SVGs to an `output` branch, matching the image URLs used above.  
-  <!-- citeturn1search6turn1search10 -->
-
-  ```mermaid
-  timeline
-    title Deploying this Profile README
-    Create profile repo : Create Muh-7/Muh-7 (public)
-    Add README : Paste this file into README.md (root)
-    Commit : Commit changes (renders on profile)
-    Optional snake : Add snake workflow → outputs SVGs to output branch
-    Optional reliability : Self-host cards if shared endpoints rate-limit
-  ```
-</details>
-
-<details>
-  <summary><b>Final Checklist (widgets & links included)</b></summary>
-
-  <br/>
-
-  | Item | Included | Implementation |
-  | --- | --- | --- |
-  | Animated typing header | ✅ | `readme-typing-svg.demolab.com` (Typing SVG) |
-  | Profile views counter | ✅ | `komarev.com/ghpvc` |
-  | Clickable skill icons | ✅ | Individual icons linked to official sites (Skill Icons + Devicon SVGs) |
-  | GitHub stats card | ✅ | `github-readme-stats.vercel.app/api` (theme: `tokyonight`) |
-  | Top languages card | ✅ | `github-readme-stats.vercel.app/api/top-langs` (theme: `tokyonight`) |
-  | Contribution streak | ✅ | `streak-stats.demolab.com` (theme: `tokyonight`) |
-  | GitHub trophies | ✅ | `github-profile-trophy.vercel.app` (theme: `tokyonight`, `no-frame=true`) |
-  | Activity graph | ✅ | `github-readme-activity-graph.vercel.app` (theme: `tokyo-night`) |
-  | Contribution snake | ✅ | `raw.githubusercontent.com/Muh-7/Muh-7/output/...` (requires workflow) |
-  | Featured project cards | ✅ | `github-readme-stats` pin API for all requested repos |
-  | AI/ML expertise section | ✅ | Included in “Profile Snapshot” |
-  | Research interests | ✅ | Included in “Profile Snapshot” |
-  | Banner image | ✅ | `capsule-render.vercel.app` header |
-  | Footer | ✅ | `capsule-render.vercel.app` footer |
-  | Contact info (email) | ✅ | Visible + mailto icon |
-  | Location | ✅ | Damascus, Syria |
-  | “Connect With Me” placed last | ✅ | This is the final section |
-
-</details>
 
 <p align="center">
   <img
