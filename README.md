@@ -36,27 +36,28 @@ Focused on **production-ready pipelines**, **robust performance**, and **clean e
 
 ---
 
-## 📌 Profile Snapshot
+## 👨‍💻 About Me
 
-<p align="center">
-  <a href="mailto:muhammad.alsehoum2000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/Muh-7">
-    <img src="https://img.shields.io/badge/GitHub-Muh--7-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-alsehoum-7ab688294">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+AI Engineer building **real-world Computer Vision & OCR systems** with a focus on performance, scalability, and clean design.
 
-<p align="center">
-  📍 Damascus, Syria  
-  <br>
-   AI Engineer · Computer Vision Specialist · OCR Systems Builder
-</p>
+I work on:
+- End-to-end AI pipelines (data → training → inference)
+- Arabic OCR systems (handwritten & printed)
+- Deep learning models & optimization
+- Practical deployment of AI systems
 
 ---
+
+## 📫 Contact
+
+- 📍 Damascus, Syria  
+- 📧 muhammad.alsehoum2000@gmail.com  
+- 💻 https://github.com/Muh-7  
+- 🔗 https://www.linkedin.com/in/muhammad-alsehoum-7ab688294  
+
+---
+
+> Building AI systems that solve real-world problems.---
 
 ## ⚡ Core Expertise
 
