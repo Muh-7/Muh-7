@@ -1,8 +1,11 @@
 <p align="center">
-  <img
-    alt="Header banner for Muhammad Kassem Alsehoum"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Muhammad%20Kassem%20Alsehoum&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20OCR%20Systems%20Builder&descAlignY=72&descSize=18"
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2026,50:1CB5E0,100:000046&height=250&section=header&text=Muhammad%20Alsehoum&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Vision%20Specialist&descAlignY=60&descSize=20"
   />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Real-World+AI+Systems;Computer+Vision+%26+OCR+Expert;Deep+Learning+Engineer;Turning+Ideas+into+AI+Products" />
 </p>
 <!-- citeturn4view3 -->
 
@@ -48,66 +51,77 @@ Computer Vision (detection, recognition, generative models), OCR systems (especi
 **Research Interests**  
 OCR robustness (noise, blur, low-res, skew), Arabic text recognition, efficient deep learning, dataset curation/labeling workflows, and practical deployment patterns for CV inference.
 
-## Tech Stack
+
+<!-- ================= AI ================= -->
+<p align="center"><b> AI / Deep Learning</b></p>
 
 <p align="center">
-  <a href="https://www.python.org/" title="Python">
-    <img alt="Python" height="44" src="https://skillicons.dev/icons?i=py" />
-  </a>
-  <a href="https://pytorch.org/" title="PyTorch">
-    <img alt="PyTorch" height="44" src="https://skillicons.dev/icons?i=pytorch" />
-  </a>
-  <a href="https://www.tensorflow.org/" title="TensorFlow">
-    <img alt="TensorFlow" height="44" src="https://skillicons.dev/icons?i=tensorflow" />
-  </a>
-  <a href="https://keras.io/" title="Keras">
-    <img alt="Keras" height="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" />
-  </a>
-  <a href="https://opencv.org/" title="OpenCV">
-    <img alt="OpenCV" height="44" src="https://skillicons.dev/icons?i=opencv" />
-  </a>
-  <a href="https://scikit-learn.org/" title="scikit-learn">
-    <img alt="scikit-learn" height="44" src="https://skillicons.dev/icons?i=sklearn" />
-  </a>
-  <a href="https://numpy.org/" title="NumPy">
-    <img alt="NumPy" height="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />
-  </a>
-  <a href="https://pandas.pydata.org/" title="pandas">
-    <img alt="pandas" height="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />
-  </a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" height="44"/></a>
+  <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch" height="44"/></a>
+  <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" height="44"/></a>
+  <a href="https://keras.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" height="44"/></a>
+  <a href="https://huggingface.co/transformers"><img src="https://cdn.simpleicons.org/huggingface" height="44"/></a>
 </p>
-<!-- Devicon raw SVG paths verified via Devicon icon directories. citeturn21view0turn21view2turn21view4 -->
+
+---
+
+<!-- ================= CV ================= -->
+<p align="center"><b> Computer Vision</b></p>
 
 <p align="center">
-  <a href="https://www.djangoproject.com/" title="Django">
-    <img alt="Django" height="42" src="https://skillicons.dev/icons?i=django" />
-  </a>
-  <a href="https://fastapi.tiangolo.com/" title="FastAPI">
-    <img alt="FastAPI" height="42" src="https://skillicons.dev/icons?i=fastapi" />
-  </a>
-  <a href="https://git-scm.com/" title="Git">
-    <img alt="Git" height="42" src="https://skillicons.dev/icons?i=git" />
-  </a>
-  <a href="https://docs.github.com/en/actions" title="GitHub Actions">
-    <img alt="GitHub Actions" height="42" src="https://skillicons.dev/icons?i=githubactions" />
-  </a>
-  <a href="https://www.docker.com/" title="Docker">
-    <img alt="Docker" height="42" src="https://skillicons.dev/icons?i=docker" />
-  </a>
-  <a href="https://www.linuxfoundation.org/" title="Linux">
-    <img alt="Linux" height="42" src="https://skillicons.dev/icons?i=linux" />
-  </a>
-  <a href="https://www.postgresql.org/" title="PostgreSQL">
-    <img alt="PostgreSQL" height="42" src="https://skillicons.dev/icons?i=postgres" />
-  </a>
-  <a href="https://code.visualstudio.com/" title="VS Code">
-    <img alt="VS Code" height="42" src="https://skillicons.dev/icons?i=vscode" />
-  </a>
-  <a href="https://www.anaconda.com/" title="Anaconda">
-    <img alt="Anaconda" height="42" src="https://skillicons.dev/icons?i=anaconda" />
-  </a>
+  <a href="https://opencv.org"><img src="https://skillicons.dev/icons?i=opencv" height="44"/></a>
+  <a href="https://ultralytics.com"><img src="https://cdn.simpleicons.org/yolo" height="44"/></a>
+  <a href="https://github.com/facebookresearch/detectron2"><img src="https://cdn.simpleicons.org/meta" height="44"/></a>
+  <a href="https://mediapipe.dev"><img src="https://cdn.simpleicons.org/google" height="44"/></a>
+  <a href="https://github.com/OlafenwaMoses/ImageAI"><img src="https://cdn.simpleicons.org/python" height="44"/></a>
 </p>
-<!-- Skill Icons usage + supported IDs are documented by the project. citeturn5view1turn8view3 -->
+
+---
+
+<!-- ================= DATA ================= -->
+<p align="center"><b>📊 Data Science</b></p>
+
+<p align="center">
+  <a href="https://numpy.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="44"/></a>
+  <a href="https://pandas.pydata.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="44"/></a>
+  <a href="https://scikit-learn.org"><img src="https://skillicons.dev/icons?i=sklearn" height="44"/></a>
+  <a href="https://matplotlib.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="44"/></a>
+  <a href="https://seaborn.pydata.org"><img src="https://cdn.simpleicons.org/seaborn" height="44"/></a>
+  <a href="https://scipy.org"><img src="https://cdn.simpleicons.org/scipy" height="44"/></a>
+  <a href="https://albumentations.ai"><img src="https://cdn.simpleicons.org/python" height="44"/></a>
+  <a href="https://jupyter.org"><img src="https://cdn.simpleicons.org/jupyter" height="44"/></a>
+  <a href="https://www.anaconda.com"><img src="https://skillicons.dev/icons?i=anaconda" height="44"/></a>
+</p>
+
+---
+
+<!-- ================= TOOLS ================= -->
+<p align="center"><b>⚙️ Backend & Tools</b></p>
+
+<p align="center">
+  <a href="https://www.djangoproject.com"><img src="https://skillicons.dev/icons?i=django" height="42"/></a>
+  <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" height="42"/></a>
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="42"/></a>
+  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="42"/></a>
+  <a href="https://docs.github.com/en/actions"><img src="https://skillicons.dev/icons?i=githubactions" height="42"/></a>
+  <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="42"/></a>
+  <a href="https://www.linuxfoundation.org"><img src="https://skillicons.dev/icons?i=linux" height="42"/></a>
+  <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" height="42"/></a>
+  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="42"/></a>
+</p>
+
+---
+
+<!-- ================= LLM ================= -->
+<p align="center"><b>🤖 LLM / AI Systems</b></p>
+
+<p align="center">
+  <a href="https://www.langchain.com"><img src="https://cdn.simpleicons.org/langchain" height="44"/></a>
+  <a href="https://www.llamaindex.ai"><img src="https://cdn.simpleicons.org/llama" height="44"/></a>
+
+  
+</p> 
+
 
 ## Featured Projects
 
