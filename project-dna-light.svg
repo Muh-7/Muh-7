@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="286" viewBox="0 0 580 286">
+<style>.ui{font-family:Inter,"Segoe UI",Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}</style>
+<rect x=".7" y=".7" width="578.6" height="284.6" rx="23" fill="#FFFFFF" stroke="#DCE1E7" stroke-width="1.4"/>
+<text x="30" y="37" class="mono" fill="#008DA6" font-size="11" font-weight="700">01</text>
+<text x="69" y="37" class="mono" fill="#6E7885" font-size="10" letter-spacing="1.4">BIO-AI / GENOMICS</text>
+<text x="30" y="88" class="ui" fill="#11151B" font-size="25" font-weight="800">DNA Mutation Analyzer</text>
+<text x="30" y="126" class="ui" fill="#38414D" font-size="14">From a sequence variant to genomic context,</text>
+<text x="30" y="148" class="ui" fill="#38414D" font-size="14">expression, splicing and TF-motif effects.</text>
+<text x="30" y="190" class="mono" fill="#6E7885" font-size="9">GENCODE · GRCh38 · AlphaGenome · JASPAR · FIMO</text>
+<path d="M30 215 H550" stroke="#DCE1E7"/>
+<g transform="translate(30,242)" class="mono" font-size="9">
+  <text x="0" y="0" fill="#6E7885">LANG</text><text x="34" y="0" fill="#11151B">Python</text>
+  <text x="130" y="0" fill="#6E7885">STARS</text><text x="169" y="0" fill="#11151B">1</text>
+  <text x="218" y="0" fill="#6E7885">FORKS</text><text x="256" y="0" fill="#11151B">0</text>
+  <text x="318" y="0" fill="#6E7885">UPDATED</text><text x="373" y="0" fill="#11151B">14 JUL 2026</text>
+</g>
+<g transform="translate(417,90)"><path d="M0 6 C58 26 58 105 0 126 M108 6 C50 26 50 105 108 126" fill="none" stroke="#6557E8" stroke-width="2.2"/><g stroke="#008DA6" opacity=".75"><line x1="17" y1="25" x2="91" y2="25"/><line x1="5" y1="54" x2="103" y2="54"/><line x1="5" y1="83" x2="103" y2="83"/><line x1="17" y1="111" x2="91" y2="111"/></g><circle cx="54" cy="54" r="5" fill="#008DA6"><animate attributeName="r" values="4;7;4" dur="2.1s" repeatCount="indefinite"/></circle></g>
+</svg>

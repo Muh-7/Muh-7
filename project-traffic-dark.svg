@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="286" viewBox="0 0 580 286">
+<style>.ui{font-family:Inter,"Segoe UI",Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}</style>
+<rect x=".7" y=".7" width="578.6" height="284.6" rx="23" fill="#0C1118" stroke="#222B37" stroke-width="1.4"/>
+<text x="30" y="37" class="mono" fill="#6EE7F9" font-size="11" font-weight="700">02</text>
+<text x="69" y="37" class="mono" fill="#7D8998" font-size="10" letter-spacing="1.4">REAL-TIME COMPUTER VISION</text>
+<text x="30" y="88" class="ui" fill="#F4F7FB" font-size="25" font-weight="800">Traffic Speed Analytics</text>
+<text x="30" y="126" class="ui" fill="#C1CAD6" font-size="14">Detection, tracking and speed estimation</text>
+<text x="30" y="148" class="ui" fill="#C1CAD6" font-size="14">from video with generated traffic analytics.</text>
+<text x="30" y="190" class="mono" fill="#7D8998" font-size="9">YOLOv8 · ByteTrack · OpenCV · Pandas</text>
+<path d="M30 215 H550" stroke="#222B37"/>
+<g transform="translate(30,242)" class="mono" font-size="9">
+  <text x="0" y="0" fill="#7D8998">LANG</text><text x="34" y="0" fill="#F4F7FB">Jupyter Notebook</text>
+  <text x="130" y="0" fill="#7D8998">STARS</text><text x="169" y="0" fill="#F4F7FB">0</text>
+  <text x="218" y="0" fill="#7D8998">FORKS</text><text x="256" y="0" fill="#F4F7FB">0</text>
+  <text x="318" y="0" fill="#7D8998">UPDATED</text><text x="373" y="0" fill="#F4F7FB">04 JUN 2026</text>
+</g>
+<g transform="translate(400,95)" fill="none"><rect x="0" y="16" width="75" height="46" rx="4" stroke="#6EE7F9" stroke-width="2"/><rect x="72" y="68" width="103" height="60" rx="4" stroke="#8B7CFF" stroke-width="2"/><path d="M7 39H68 M80 98H168" stroke="#222B37" stroke-dasharray="5 5"/><circle cx="38" cy="39" r="3" fill="#6EE7F9"><animate attributeName="opacity" values=".25;1;.25" dur="1.7s" repeatCount="indefinite"/></circle></g>
+</svg>

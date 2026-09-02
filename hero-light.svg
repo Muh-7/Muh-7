@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<defs>
+  <linearGradient id="signal" x1="0" x2="1"><stop offset="0" stop-color="#008DA6" stop-opacity="0"/><stop offset=".45" stop-color="#008DA6"/><stop offset="1" stop-color="#6557E8" stop-opacity="0"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>.ui{font-family:Inter,"Segoe UI",Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}</style>
+<rect width="1200" height="420" rx="28" fill="#F7F8FA"/>
+<path d="M40 72 H1160 M40 350 H1160" stroke="#ECEFF3"/>
+<path d="M760 72 V350" stroke="#ECEFF3"/>
+
+<text x="46" y="58" class="mono" fill="#6E7885" font-size="11" letter-spacing="2.3">MUH-7 / AI SYSTEMS</text>
+<circle cx="1128" cy="54" r="5" fill="#14875A"><animate attributeName="opacity" values=".3;1;.3" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="1114" y="59" text-anchor="end" class="mono" fill="#6E7885" font-size="10">LIVE</text>
+
+<text x="46" y="142" class="ui" fill="#11151B" font-size="49" font-weight="800" letter-spacing="-1.6">Muhammad Alsehoum</text>
+<text x="46" y="196" class="ui" fill="#11151B" font-size="31" font-weight="700">AI Engineer building the system around the model.</text>
+<text x="46" y="239" class="ui" fill="#38414D" font-size="16">Computer Vision · Machine Learning · Bio-AI · MLOps</text>
+
+<g transform="translate(46,293)">
+  <text x="0" y="0" class="mono" fill="#6E7885" font-size="10">PUBLIC REPOS</text><text x="0" y="27" class="ui" fill="#11151B" font-size="20" font-weight="700">24</text>
+  <text x="132" y="0" class="mono" fill="#6E7885" font-size="10">FOLLOWERS</text><text x="132" y="27" class="ui" fill="#11151B" font-size="20" font-weight="700">5</text>
+  <text x="258" y="0" class="mono" fill="#6E7885" font-size="10">PRIMARY</text><text x="258" y="27" class="ui" fill="#11151B" font-size="20" font-weight="700">Python</text>
+  <text x="395" y="0" class="mono" fill="#6E7885" font-size="10">RENDER</text><text x="395" y="27" class="ui" fill="#11151B" font-size="20" font-weight="700">2026-09-02</text>
+</g>
+
+<g transform="translate(805,105)">
+  <text x="0" y="0" class="mono" fill="#6E7885" font-size="10" letter-spacing="1.7">ML LIFECYCLE / SIGNAL PATH</text>
+  <path d="M24 72 H258 V158 H80 V236 H290" fill="none" stroke="#DCE1E7" stroke-width="2"/>
+  <g class="mono" font-size="10">
+    <circle cx="24" cy="72" r="7" fill="#FFFFFF" stroke="#008DA6" stroke-width="2"/><text x="24" y="51" text-anchor="middle" fill="#6E7885">DATA</text>
+    <circle cx="144" cy="72" r="7" fill="#FFFFFF" stroke="#008DA6" stroke-width="2"/><text x="144" y="51" text-anchor="middle" fill="#6E7885">TRAIN</text>
+    <circle cx="258" cy="72" r="7" fill="#FFFFFF" stroke="#008DA6" stroke-width="2"/><text x="258" y="51" text-anchor="middle" fill="#6E7885">EVAL</text>
+    <circle cx="258" cy="158" r="7" fill="#FFFFFF" stroke="#6557E8" stroke-width="2"/><text x="278" y="162" fill="#6E7885">SERVE</text>
+    <circle cx="80" cy="158" r="7" fill="#FFFFFF" stroke="#6557E8" stroke-width="2"/><text x="80" y="139" text-anchor="middle" fill="#6E7885">SHIP</text>
+    <circle cx="80" cy="236" r="7" fill="#FFFFFF" stroke="#14875A" stroke-width="2"/><text x="80" y="260" text-anchor="middle" fill="#6E7885">OBSERVE</text>
+    <circle cx="290" cy="236" r="7" fill="#FFFFFF" stroke="#14875A" stroke-width="2"/><text x="290" y="260" text-anchor="middle" fill="#6E7885">ITERATE</text>
+  </g>
+  <circle r="5" fill="#008DA6" filter="url(#glow)"><animateMotion dur="7s" repeatCount="indefinite" path="M24 72 H258 V158 H80 V236 H290"/></circle>
+</g>
+
+<rect x="-180" y="348" width="220" height="3" rx="2" fill="url(#signal)"><animate attributeName="x" values="-180;1200" dur="6.5s" repeatCount="indefinite"/></rect>
+</svg>
