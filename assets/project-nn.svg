@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="275" viewBox="0 0 580 275">
+<defs>
+  <linearGradient id="a" x1="0" x2="1"><stop stop-color="#34D399"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+  <radialGradient id="gl"><stop stop-color="#34D399" stop-opacity=".25"/><stop offset="1" stop-color="#34D399" stop-opacity="0"/></radialGradient>
+</defs>
+
+<style>
+  .bg { fill:#070A0F; }
+  .panel { fill:#0B1018; stroke:#202836; stroke-width:1.2; }
+  .muted { fill:#7E8A9A; font-family:Inter,Segoe UI,Arial,sans-serif; }
+  .body { fill:#C8D2DE; font-family:Inter,Segoe UI,Arial,sans-serif; }
+  .white { fill:#F4F7FB; font-family:Inter,Segoe UI,Arial,sans-serif; }
+  .mono { font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+  .label { font-size:13px; letter-spacing:2px; font-weight:700; }
+  .small { font-size:14px; }
+</style>
+
+<rect width="580" height="275" rx="24" fill="#0A0F16" stroke="#202836"/>
+<circle cx="525" cy="36" r="130" fill="url(#gl)"/>
+<text x="32" y="39" fill="#34D399" class="mono" font-size="12" font-weight="700">04 / ML CORE</text>
+<text x="548" y="39" text-anchor="end" class="muted mono" font-size="10">FROM-SCRATCH NEURAL NETWORK</text>
+<text x="32" y="88" class="white" font-size="25" font-weight="800">AlsehoumMiniNN</text>
+<rect x="32" y="105" width="54" height="3" rx="2" fill="url(#a)"/>
+<text x="32" y="142" class="body" font-size="15">Dense layers, backpropagation, losses,</text><text x="32" y="166" class="body" font-size="15">optimizers and mini-batch training in NumPy.</text>
+<text x="32" y="248" class="muted mono" font-size="10">NumPy · SGD · Momentum · Adam · Backpropagation</text>
+
+<g transform="translate(426,124)" stroke="#34D399" stroke-width="1.2">
+  <g fill="#0A0F16">
+    <circle cx="10" cy="15" r="7"/><circle cx="10" cy="55" r="7"/><circle cx="10" cy="95" r="7"/>
+    <circle cx="75" cy="5" r="7"/><circle cx="75" cy="38" r="7"/><circle cx="75" cy="72" r="7"/><circle cx="75" cy="105" r="7"/>
+    <circle cx="137" cy="34" r="7"/><circle cx="137" cy="76" r="7"/>
+  </g>
+  <g opacity=".45">
+    <path d="M17 15L68 5M17 15L68 38M17 15L68 72M17 55L68 38M17 55L68 72M17 95L68 72M82 5L130 34M82 38L130 34M82 72L130 76M82 105L130 76"/>
+  </g>
+</g>
+</svg>
