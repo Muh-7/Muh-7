@@ -1,0 +1,64 @@
+name: Profile Engine
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - "scripts/render_profile.py"
+      - ".github/workflows/profile-engine.yml"
+  schedule:
+    - cron: "17 4 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-engine
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile source
+        uses: actions/checkout@v4
+
+      - name: Render live SVG profile
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: Muh-7
+        run: python scripts/render_profile.py
+
+      - name: Publish generated visuals to output branch
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          rm -rf /tmp/profile-output
+          git clone "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" /tmp/profile-output
+          cd /tmp/profile-output
+
+          if git show-ref --verify --quiet refs/remotes/origin/output; then
+            git checkout -B output origin/output
+          else
+            git checkout --orphan output
+          fi
+
+          find . -mindepth 1 -maxdepth 1 ! -name ".git" -exec rm -rf {} +
+          cp "${GITHUB_WORKSPACE}"/dist/*.svg .
+
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No generated changes."
+            exit 0
+          fi
+
+          git commit -m "chore: refresh profile visuals"
+          git push --force origin output
