@@ -10,7 +10,7 @@
 <path d="M30 215 H550" stroke="#222B37"/>
 <g transform="translate(30,242)" class="mono" font-size="9">
   <text x="0" y="0" fill="#7D8998">LANG</text><text x="34" y="0" fill="#F4F7FB">Jupyter Notebook</text>
-  <text x="130" y="0" fill="#7D8998">STARS</text><text x="169" y="0" fill="#F4F7FB">0</text>
+  <text x="130" y="0" fill="#7D8998">STARS</text><text x="169" y="0" fill="#F4F7FB">1</text>
   <text x="218" y="0" fill="#7D8998">FORKS</text><text x="256" y="0" fill="#F4F7FB">0</text>
   <text x="318" y="0" fill="#7D8998">UPDATED</text><text x="373" y="0" fill="#F4F7FB">17 MAR 2026</text>
 </g>
